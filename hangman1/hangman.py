@@ -1,12 +1,4 @@
-#import random
 
-#with open("google-10000-english-no-swears.txt", "r") as file:
-    #words = file.read().splitlines()
-
-#secret_word = random.choice(words).lower()
-
-#print("Welcome to Hangman!")
-#print("The word has", len(secret_word), "letters.")
 import random
 
 
